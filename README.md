@@ -15,7 +15,8 @@ Use WASD to walk and use mouse for motion looks. Listen to background beat sound
 Sources: 
 
 Platform models and WalkMesh: phone-bank.blend in the base code folder \
-Background beat sound: https://www.youtube.com/watch?v=8rOrQK1okuk \ 
-This game was built with [NEST](NEST.md).\
+Background beat sound: https://www.youtube.com/watch?v=8rOrQK1okuk 
+
+This game was built with [NEST](NEST.md).
 The model assets were built with blender
 
