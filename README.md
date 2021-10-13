@@ -14,6 +14,7 @@ Use WASD to walk and use mouse for motion looks. Listen to background beat sound
 
 Sources: 
 
+WalkMesh code reference: https://github.com/hjamal3/Game5/blob/master/WalkMesh.cpp \
 Platform models and WalkMesh: phone-bank.blend in the base code folder \
 Background beat sound: https://www.youtube.com/watch?v=8rOrQK1okuk 
 
